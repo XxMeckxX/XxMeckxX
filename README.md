@@ -1,7 +1,7 @@
 # 👋 Olá! Bem vindo ao meu perfil no Github. 👋
 ## Meu nome é Érick Vieira (XxMeckxX)! 
 ### Sobre mim:
- Tenho 23 anos, atualmente sou discente do curso de matemática aplicada e computacional pela instituição UFRRJ e aluno do curso profissionalizante para analista de dados da Resilia. Gosto muito de programar e jogar jogos online. Indo do moba até mmorpg. Algo que me motivou a entrar na área de análise de dados foi justamente meu lado gamer, pois sempre via guias e estudos em planilhas para decidir qual melhor rumo tomar em um determinado momento do jogo. Oque acabou desencadeando um interesse sobre a área da análise dos dados.
+ Tenho 27 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Estácio e em análise de dados pela Resilia. Gosto muito de programar e jogar jogos online. Indo do moba até mmorpg. Algo que me motivou a entrar na área de análise de dados foi justamente meu lado gamer, pois sempre via guias e estudos em planilhas para decidir qual melhor rumo tomar em um determinado momento do jogo. Oque acabou desencadeando um interesse sobre a área da análise dos dados.
  
 
 
@@ -20,7 +20,7 @@
 <img src="https://img.icons8.com/color/2x/power-bi.png" width="40" height="40"/><img src="https://img.icons8.com/color/344/tableau-software.png" width="40" height="40"/>
 
 ## 📧 Contatos:
-<div><a href = "mailto:kvalves99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/erick-vieira-data-analytics/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div><a href = "https://mail.google.com/mail/?view=cm&fs=1&to=kvalves99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/erick-vieira-data-analytics/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
