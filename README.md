@@ -25,8 +25,8 @@
 
 
 ## 📊 Dados:
-[![card](https://github-readme-stats.vercel.app/api?username=XxMeckxX&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![XxMeckxX](https://github-readme-stats.vercel.app/api/top-langs/?username=XxMeckxX&hide=html&layout=compact=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxMeckxX&theme=cobalt" alt="Estatísticas do GitHub" height="165"/>
+</p>
 
 ![Snake animation](https://raw.githubusercontent.com/XxMeckxX/XxMeckxX/output/github-contribution-grid-snake.svg)
