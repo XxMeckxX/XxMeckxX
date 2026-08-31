@@ -29,4 +29,4 @@
 
 [![XxMeckxX](https://github-readme-stats.vercel.app/api/top-langs/?username=XxMeckxX&hide=html&layout=compact=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/XxMeckxX/XxMeckxX/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/XxMeckxX/XxMeckxX/output/github-contribution-grid-snake.svg)
